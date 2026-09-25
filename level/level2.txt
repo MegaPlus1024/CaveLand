@@ -1,0 +1,29 @@
+platform 0 5000 1000 10000
+
+platform 9000 5000 1000 10000
+
+platform 1000 250 1000 500
+
+platform 1500 10500 4000 1000
+
+platform 7500 10500 4000 1000
+
+* platform -1000 4000 100000 1000
+
+* platform 4000 4000 1000 5000
+
+background image/cave_background_4.png
+
+platform -1000 1000 1000 2000
+
+border_size 12000 14000
+
+border_size 10000 12000
+
+border_position 4500 4500
+
+transition -1200 0 1000 5000 level1 8000 -2600
+
+transition 4500 11500 2000 1000 level3 0 -3300
+
+player 0 0

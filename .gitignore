@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+.vs/
+*.iml
+
+# CMake / build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+Makefile
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+
+# Runtime-generated state
+alive/
+
+# OS metadata
+Thumbs.db
+.DS_Store

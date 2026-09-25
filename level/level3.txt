@@ -1,0 +1,71 @@
+platform 0 0 18000 1000
+
+platform 0 -1300 200 200
+
+platform 0 -2700 200 200
+
+platform -800 -2000 400 400
+
+platform 800 -2000 400 400
+
+platform -11500 -1000 1000 5000
+
+platform -6000 -3000 10000 1000
+
+platform -9250 400 500 200
+
+platform -9250 2400 500 200
+
+platform -10750 1400 500 200
+
+platform -10750 3400 500 200
+
+platform -7750 2700 500 200
+
+platform -11500 4000 1000 1000
+
+platform 11500 -1000 1000 5000
+
+platform 6000 -3000 10000 1000
+
+platform 9250 400 500 200
+
+platform 9250 2400 500 200
+
+platform 10750 1400 500 200
+
+platform 10750 3400 500 200
+
+platform 7750 2700 500 200
+
+platform 11500 4000 1000 1000
+
+platform 0 4000 16000 1000
+
+platform 0 5000 30000 1000
+
+turtle -10000 4000
+
+turtle 10000 4000
+
+bat 5000 2000
+
+bat 0 2000
+
+bat -5000 2000
+
+background image/cave_background_4.png
+
+border_size 23000 8000
+
+* border_size 10000 12000
+
+border_position 0 500
+
+transition 0 -4000 2000 1000 level2 6000 9500
+
+transition -12500 2500 1000 2000 level4 10000 1000
+
+transition 12500 2500 1000 2000 level7 0 -1000
+
+player 0 -1000
